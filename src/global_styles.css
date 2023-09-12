@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+:root {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #333;
+}
+.status {
+  color: lightcoral;
+  text-transform: uppercase;
+  font-style: italic;
+  margin: 1rem 0;
+}
